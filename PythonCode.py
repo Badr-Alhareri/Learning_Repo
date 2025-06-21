@@ -1,6 +1,6 @@
-print("Hi")
+print("Your name is,")
 
 names = ["josh","mark","john"]
 
 for x in names:
-  print("hi,"+x)
+  print(x)

@@ -1,4 +1,4 @@
-print("Your name is,")
+print("which one is your name ? #2")
 
 names = ["josh","mark","john"]
 
